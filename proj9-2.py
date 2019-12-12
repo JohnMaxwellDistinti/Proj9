@@ -1,5 +1,5 @@
 #Author: John Maxwell Distinti
-#Repository Name: Proj9-2.py
+#Repository Name: Proj9
 #Python version 3.6.8
 
 #States of DFA, dictionary determines which states point to which other states based on input values

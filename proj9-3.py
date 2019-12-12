@@ -1,5 +1,5 @@
 #Author: John Maxwell Distinti
-#Repository Name: Proj9-3.py
+#Repository Name: Proj9
 #Python version 3.6.8
 def readNextCharacter(string):
     if(string.find('Q') < len(string)):
